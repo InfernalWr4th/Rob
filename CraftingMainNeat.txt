@@ -1311,7 +1311,7 @@ local args = {
             }
         },
         ["CurrencyData"] = {
-            ["Candy"] = math.huge
+            ["Candy"] = 9e17
         },
         ["ConversionData"] = {
             ["ConvertedTradeSerials"] = true,
